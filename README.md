@@ -6,5 +6,5 @@ This repository contains the assignments, midterm, and final from my Machine Lea
 
 ## Topics
 
-![](https://img.shields.io/badge/PCA-informational?style=flat&color=003865)
+![](https://img.shields.io/badge/Supervised\spaceMachine\Learning-informational?style=flat&color=003865)
 
