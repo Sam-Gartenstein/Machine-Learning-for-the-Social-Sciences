@@ -8,4 +8,10 @@ This repository contains the assignments, midterm, and final from my Machine Lea
 
 ![](https://img.shields.io/badge/KNN-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Model_Selection-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Lasso_Regression-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Ridge_Regression-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Logistic_Regression-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Linear_Regression-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Model_Evaluation-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/SVM-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Decision_Trees-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Random_Forests-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Gradient_Boosting-informational?style=flat&color=9BCBEB) ![](https://img.shields.io/badge/Ensemble_Models-informational?style=flat&color=9BCBEB)
 
+## Unsupervised Machine Learning
 
+![](https://img.shields.io/badge/Principal_Component_Analysis-informational?style=flat&color=003865) ![](https://img.shields.io/badge/K-means_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Hierarchial_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Text_As_Data-informational?style=flat&color=003865) 
+
+
+
+ 
