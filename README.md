@@ -1,3 +1,6 @@
+
+<img width="717" alt="QMSS" src="https://github.com/Sam-Gartenstein/Machine-Learning-for-the-Social-Sciences/assets/152323867/b0a4b7f9-c444-4136-a9b8-7eb55ed3527c">
+
 # Machine-Learning-for-the-Social-Sciences
 This repository contains the assignments, midterm, and final from my Machine Learning for the Social Sciences course (QMSS GR5073) at Columbia University. 
 
