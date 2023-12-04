@@ -10,7 +10,12 @@ This repository contains the assignments, midterm, and final from my Machine Lea
 
 ## Unsupervised Machine Learning
 
-![](https://img.shields.io/badge/Principal_Component_Analysis-informational?style=flat&color=003865) ![](https://img.shields.io/badge/K-means_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Hierarchial_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Text_As_Data-informational?style=flat&color=003865) 
+![](https://img.shields.io/badge/Principal_Component_Analysis-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Kmeans_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Hierarchial_Clustering-informational?style=flat&color=003865) ![](https://img.shields.io/badge/Text_As_Data-informational?style=flat&color=003865) 
+
+## Neural Networks
+
+![](https://img.shields.io/badge/Convolution_Neural_Networks-informational?style=flat&color=9BCBEB)
+
 
 
 
